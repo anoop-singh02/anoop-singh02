@@ -7,7 +7,7 @@ Hi, I’m Anoop – a recent grad and budding engineer with a passion for buildi
 - [A1 Alarm Systems Store](#) – e‑commerce storefront for alarm systems  
 - [Flight DevOps](#) – CI/CD pipeline and infrastructure for a flight‑booking microservice  
 - [Elevate Fitness Website](#) – responsive website for a local fitness brand  
-- *[BillTracker](#) – track recurring bills and payments  
+- [BillTracker](#) – track recurring bills and payments  
 
 ## 🛠️ Tech Stack  
 - **Languages:** TypeScript, JavaScript, Python, HTML/CSS  
